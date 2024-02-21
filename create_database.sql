@@ -1,0 +1,1 @@
+create database Inventory_Management_System;
